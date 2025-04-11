@@ -1,2 +1,1 @@
-# repismi
-başlık 
+buraya seo yazın
